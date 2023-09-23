@@ -1,1 +1,1 @@
-# strategy-patter
+# strategy-pattern
